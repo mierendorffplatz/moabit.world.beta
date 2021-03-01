@@ -661,8 +661,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":37,
          "firstgid":1071,
-         "source":"assets\/tileset_naturfotos.tsx"
+         "image":"assets\/tileset_naturfotos.png",
+         "imageheight":1200,
+         "imagewidth":1200,
+         "margin":0,
+         "name":"tileset_naturfotos",
+         "spacing":0,
+         "tilecount":1369,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
