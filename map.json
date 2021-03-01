@@ -103,7 +103,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/moabit.world\/veranstaltungen\/"
+                 "value":"https:\/\/moabit.world\/veranstaltungsinfos\/"
                 }],
          "type":"tilelayer",
          "visible":true,

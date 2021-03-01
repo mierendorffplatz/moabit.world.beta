@@ -61,7 +61,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Workshop"
+                 "value":"https:\/\/meet.digipolismoabit.de\/workshop"
                 }],
          "type":"tilelayer",
          "visible":true,
